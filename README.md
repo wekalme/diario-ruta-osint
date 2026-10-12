@@ -24,15 +24,17 @@ Los fundamentos de seguridad que pide cualquier puesto de investigación digital
 Crear un agente que investige con mis herramientas, documente cada prueba y redacte un informe que revisaré. Lo publicaré en internet como un servicio real (API, Docker y despliegue). Desde aquí trabajaré con un agente de programación.
 
 ### Fase 6 - Portfolio y empleo
-Portfolio de investigación, entrevistas con caso práctico y candidaturas en tus cinco frentes: fraude y prevención de blanqueo, SOC (analista de nivel 1), GRC, OSINT y protección de marca, e inteligencia de amenazas.
+Portfolio de investigación, entrevistas con caso práctico y candidaturas en mis cinco frentes: fraude y prevención de blanqueo, SOC (analista de nivel 1), GRC, OSINT y protección de marca, e inteligencia de amenazas.
 
-## Rutina Semanal
-- Lunes a jueves · temario, SQL (miércoles) y Cambridge	2 h/día = 8 h 
-- Viernes · ejercicios y repaso	1,5–2 h
-- Sábado · reto OSINT (2 h) + proyecto (4–5 h)	6–7 h
-- Domingo · proyecto y temario	5 h
-- Base técnica (cuando prefieras)	1 h
-- Inglés · 20 min al día (Anki o pódcast)	~2,5 h
+## Rutina semanal
+- Lunes a jueves: temario, SQL (miércoles) y Cambridge — 8 h (2 h/día)
+- Viernes: ejercicios y repaso — 1,5–2 h
+- Sábado: reto OSINT (2 h) y proyecto (4–5 h) — 6–7 h
+- Domingo: proyecto y temario — 5 h
+- Base técnica (día flexible) — 1 h
+- Inglés: 20 min al día de Anki o pódcast — unas 2,5 h
+
+**Total: unas 24–25 h a la semana.**
 
 ## Principios éticos
 
@@ -49,3 +51,8 @@ Todo el trabajo de este repositorio sigue estas reglas:
 
 ## Enlace APP
 - Enlace a la app: https://ruta-osint.vercel.app/
+
+## Diario de investigación
+- Semana 01 - Puesta a punto (diario/S01.md)
+Instalar VS Code, Python y Git. Leer la introducción del toolkit de Bellingcat para entender qué es una investigación de fuentes abiertas.
+ 
