@@ -1,36 +1,51 @@
-#Ruta para convertirme en investigadora OSINT con IA aplicada
-
+# Ruta para convertirme en investigadora OSINT con IA aplicada
 Investigación digital con base técnica: Python, metodología OSINT, IA aplicada a la investigación y ciberseguridad.
 
-##Objetivo
-Poder crecer en cuanto a conocimientos. Actualmente trabajo como desarrolladora web y antes había estudiado Criminología asi que quiero enfocarlo en ambas ramas. 
+Plan de 43 semanas, de octubre de 2026 a agosto de 2027. 
 
-##Fases
+## Objetivo
+Busco mi primer puesto en fraude y prevención de blanqueo, SOC, GRC, OSINT o inteligencia de amenazas. Mi perfil une Criminología (método de investigación, ética y derecho), desarrollo web (programación, WordPress y seguridad web) e IA aplicada a la investigación.
 
-###Fase 1 - Python, Linux y redes
+## Fases
+
+### Fase 1 - Python, Linux y redes
 La base técnica de cualquier investigador digital: programar en Python, moverme por Linux y entender cómo funcionan internet y la web. Acabo con mi primera caja de herramientas OSINT.
 
-###Fase 2 - Metodología OSINT
+### Fase 2 - Metodología OSINT
 Investigar con método: planificar, buscar, verificar, documentar y respetar la ley. Personas, imágenes, empresas e infraestructura.
 
-###Fase 3 - IA aplicada a la investigación
+### Fase 3 - IA aplicada a la investigación
 Usar modelos de lenguaje para analizar grandes volúmenes de información sin inventar nada: extraer entidades, traducir, resumir, buscar en documentos y citar fuentes.
 
-###Fase 4 - Ciberseguridad, fraude e inteligencia de amenazas
+### Fase 4 - Ciberseguridad, fraude e inteligencia de amenazas
 Los fundamentos de seguridad que pide cualquier puesto de investigación digital: amenazas, phishing, fraude, inteligencia de amenazas y seguridad de la propia IA.
 
-##Fase 5 - Proyecto estrella: agente de investigación OSINT
-Crear un agente que investiga con mis herramientas, documenta cada prueba y redacta un informe que revisaré. Lo publicaré en internet como un servicio real (API, Docker y despliegue). Desde aquí trabajaré con un agente de programación.
+### Fase 5 - Proyecto estrella: agente de investigación OSINT
+Crear un agente que investige con mis herramientas, documente cada prueba y redacte un informe que revisaré. Lo publicaré en internet como un servicio real (API, Docker y despliegue). Desde aquí trabajaré con un agente de programación.
 
-###Fase 6 - Portfolio y empleo
-Portfolio de investigación, entrevistas con caso práctico y candidaturas en cinco frentes: OSINT y protección de marca, Trust & Safety, fraude, inteligencia de amenazas y due diligence.
+### Fase 6 - Portfolio y empleo
+Portfolio de investigación, entrevistas con caso práctico y candidaturas en tus cinco frentes: fraude y prevención de blanqueo, SOC (analista de nivel 1), GRC, OSINT y protección de marca, e inteligencia de amenazas.
 
-##Rutina Semanal
-De lunes a jueves debo realizar 2h/día. Los Viernes son dias de ejercicio y repaso 1,5-2h aprox. Sabados: Reto OSINT + proyecto - de 2h a 5h. Domingos: Proyecto y temario - 5h y realizar base técnica 1h. 
-Son unas 24h semanales entre estudio y práctica. 
+## Rutina Semanal
+- Lunes a jueves · temario, SQL (miércoles) y Cambridge	2 h/día = 8 h 
+- Viernes · ejercicios y repaso	1,5–2 h
+- Sábado · reto OSINT (2 h) + proyecto (4–5 h)	6–7 h
+- Domingo · proyecto y temario	5 h
+- Base técnica (cuando prefieras)	1 h
+- Inglés · 20 min al día (Anki o pódcast)	~2,5 h
 
-##Principios éticos
-Toda la investigación que haga a lo largo del estudio la realizaré en base a mi misma o a casos ficticios. 
+## Principios éticos
 
-##Enlace APP
-https://ruta-osint.vercel.app/
+Todo el trabajo de este repositorio sigue estas reglas:
+
+- **Solo fuentes abiertas.** Uso únicamente información accesible públicamente, sin saltarme controles de acceso, muros de pago ni sistemas de autenticación.
+- **Nunca accedo a cuentas ni sistemas ajenos.** No uso credenciales filtradas, no fuerzo contraseñas ni exploto vulnerabilidades en sistemas que no son míos.
+- **Practico sobre mí misma, casos ficticios o con permiso.** Cualquier investigación sobre una persona u organización real se hace solo con su autorización por escrito.
+- **Sin engaño ni interacción con los objetivos.** No contacto con las personas investigadas ni me hago pasar por otra persona para obtener información.
+- **Minimización y protección de datos.** Recojo solo lo necesario para la pregunta de investigación, trato los datos personales conforme al RGPD y no publico información que permita identificar a personas reales.
+- **Trazabilidad.** Documento las fuentes, las fechas y los pasos de cada investigación para que cualquier conclusión pueda verificarse, siguiendo buenas prácticas como el Protocolo de Berkeley.
+- **Honestidad en los resultados.** Distingo entre hechos verificados, inferencias e hipótesis, y no presento como cierto lo que no puedo comprobar.
+- **Uso responsable de la IA.** Reviso y verifico todo lo que genera un modelo de lenguaje antes de usarlo como prueba o conclusión.
+
+## Enlace APP
+- Enlace a la app: https://ruta-osint.vercel.app/
