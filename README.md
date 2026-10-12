@@ -53,6 +53,5 @@ Todo el trabajo de este repositorio sigue estas reglas:
 - Enlace a la app: https://ruta-osint.vercel.app/
 
 ## Diario de investigación
-- Semana 01 - Puesta a punto (diario/S01.md)
-Instalar VS Code, Python y Git. Leer la introducción del toolkit de Bellingcat para entender qué es una investigación de fuentes abiertas.
+- [Semana 01 · Puesta a punto](diario/S01.md): instalar VS Code, Python y Git, y leer la introducción del Bellingcat Toolkit.
  
