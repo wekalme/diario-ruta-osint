@@ -54,4 +54,4 @@ Todo el trabajo de este repositorio sigue estas reglas:
 
 ## Diario de investigación
 - [Semana 01 · Puesta a punto](diario/S01.md): instalar VS Code, Python y Git, y leer la introducción del Bellingcat Toolkit.
- 
+ - [Semana 02 · Python básico y Bandit](diario/S02.md): CS50P lecciones 0–1, Bandit 0–5 y Listening del B2 First.
