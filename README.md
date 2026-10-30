@@ -49,6 +49,9 @@ Todo el trabajo de este repositorio sigue estas reglas:
 - **Honestidad en los resultados.** Distingo entre hechos verificados, inferencias e hipótesis, y no presento como cierto lo que no puedo comprobar.
 - **Uso responsable de la IA.** Reviso y verifico todo lo que genera un modelo de lenguaje antes de usarlo como prueba o conclusión.
 
+## Apuntes
+- [Git](apuntes/git.md): conceptos, comandos y errores típicos.
+
 ## Enlace APP
 - Enlace a la app: https://ruta-osint.vercel.app/
 
