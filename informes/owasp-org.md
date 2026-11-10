@@ -1,0 +1,5 @@
+# Informe OSINT: owasp.org (consulta: 10/11/2026)
+- **Registro:** creado el 21/09/2001 con GoDaddy.com. LLC; titular oculto mediante servicio de privacidad (Domains By Proxy) y dominio bloqueado contra transferencias y cambios, con renovación hasta 2031.
+- **DNS:** `fay.ns.cloudflare.com`y `west.ns.cloudflare.com`(Cloudflare), contrastado en ICANN RDAP y `nslookup`; sin DNSSEC.
+- **Subdominios curiosos (crt.sh + DNS, 10/11/2026):** `admin.owasp.org` (posible panel de administración, alojado en Vercel), `dev.owasp.org` (entorno de desarrollo activo tras Cloudflare, con proyectos propios como `pce.dev`) y `new-wiki.owasp.org` (ya no resuelve; junto a `wiki` y `update-wiki`, probable resto de una migración de la wiki)
+- **Conclusión:** dominio antiguo y bien protegido a nivel de registro, pero con entornos internos y de pruebas visibles de los registros públicos de certificados, algunos aún activos en DNS; no se ha accedido a ninguno. 
